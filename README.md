@@ -1,5 +1,7 @@
 # Backup de listas de correo JuegosAR y ADVA
 
+![Foto grupal](https://raw.githubusercontent.com/noidexe/adva_juegosar_ml_archive/master/adva_binaries/Photos/n_a4.jpg)
+
 Este repo contiene un backup de las listas de correo ADVA y JuegosAR vinculadas a la historia del desarrollo de videojuegos en la Republica Argentina. Lo pongo a disposición para cualquiera que le interese junto con las herramientas utilizadas.
 
 ## Contenido de las carpetas
