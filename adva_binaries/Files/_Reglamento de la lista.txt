@@ -1,0 +1,51 @@
+
+Lista de información general de ADVA
+Reglamento
+
+v 1.0.2
+30 / 9 / 2004
+
+
+* Descripción
+
+	La lista de información general es un canal de comunicación entre personas interesadas en el desarrollo de videojuegos en Argentina. Está abierta a cualquiera, y no hace falta ser socio de ADVA para participar (leyendo o escribiendo).
+
+
+* Temática de la lista
+
+	El tema de la lista es el desarrollo de videojuegos en Argentina. Por lo tanto, los mensajes enviados deberán tratar sobre ese tema. Se aceptarán temas de programación, arte, diseño, negocios y otros, siempre y cuando estén relacionados con el desarrollo de videojuegos.
+
+	Si una conversación derivara en un tema fuera de los tópicos de la lista, los participantes deberán seguirlo en privado.
+
+
+* Moderación
+
+	La lista estará moderada por una o más personas designadas por la comisión directiva de ADVA. Los moderadores podrán quitar a personas de la lista si lo consideraran necesario. Los participantes de la lista que no sean moderadores no tendrán ninguna atribución de moderación en la lista. Los moderadores también podrán retirar mensajes del archivo de la lista si lo consideraran necesario.
+	Si un participante considera algún mensaje ofensivo o fuera de lugar, deberá notificar al moderador EN PRIVADO y no por la lista misma. Será tarea del moderador notificar pública o privadamente a quien ofende, y no de los otros miembros de la lista. 
+
+
+* Suscripción y desuscripción
+
+	Cualquier persona podrá suscribirse y desuscribirse de la lista. Para eso deberá consultar la información en gruposyahoo.com.ar.
+
+
+* Contenido ilegal
+
+	No se permitirá el envío de contenido o referencias para obtener contenido ilegal de ningún tipo. En caso de que algún integrante de la lista lo enviara, los moderadores podrán decidir la expulsión temporal o definitiva de las personas de la lista.
+
+
+* Responsabilidad
+
+	A pesar del caracter moderado de la lista, ni ADVA ni su comisión directiva ni los moderadores se hacen responsables por los contenidos que circulen por la misma. Todo mensaje enviado por la misma será exclusiva responsabilidad de quien lo enviara.
+
+* Reglamento
+
+	Este reglamento podrá ser modificado en todo o en parte. Será publicado periódicamente por la lista
+
+* Información sobre ADVA
+
+	ADVA es la Asociación de Desarrolladores de Videojuegos Argentinos. Agrupa a las personas interesadas en el desarrollo de videojuegos en Argentina. ADVA es una asociación sin fines de lucro. Más información en:
+	http://www.adva.com.ar
+
+
+

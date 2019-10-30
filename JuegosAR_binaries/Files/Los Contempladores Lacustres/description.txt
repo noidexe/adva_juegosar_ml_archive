@@ -1,0 +1,14 @@
+[Dev docs.zip]
+Informacion para developers de LCL
+
+[Engine Test.zip]
+Engine test a las apuradas
+
+[Editor.zip]
+Editor con bugs y sistema de seleccion por hot-spot (en la nueva ya lo cambié por el otro que es más cómodo)
+
+[FILE_ID,DIZ]
+Info
+
+[Escena 3 Engien version trucha]
+Esta es la versión desordenada, con todas las clases en el generic.cpp y muchas malas aproximaciones de diseño. De a poco voy a ir subiendo las clases que ya estén listas de la versión nueva en otro directorio.
