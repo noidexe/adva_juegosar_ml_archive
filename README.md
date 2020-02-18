@@ -23,5 +23,5 @@ Los scripts de conversion a txt y html no contemplaban que el json fuera de erro
 
 ## Creditos
 Scripts forkeados de https://github.com/andrewferguson/YahooGroups-Archiver
-Gracias a Federico "Master of the Scrapeo" por conseguirme los scripts. (@fcingolani)
+Gracias a Federico "Master of the Scrapeo" Cingolani por conseguirme los scripts. (@fcingolani)
 Gracias a Francisco "Panchi" Demartino (@franciscod) por la ayuda con algunos errores de python. No tiene soundcloud pero hace un tracker con el primo que esta muy piola: http://deflemask.com/
